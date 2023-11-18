@@ -1,0 +1,14 @@
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\bin\Debug\net6.0\CreatorGrasp.exe
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\bin\Debug\net6.0\CreatorGrasp.deps.json
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\bin\Debug\net6.0\CreatorGrasp.runtimeconfig.json
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\bin\Debug\net6.0\CreatorGrasp.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\bin\Debug\net6.0\CreatorGrasp.pdb
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\obj\Debug\net6.0\CreatorGrasp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\obj\Debug\net6.0\CreatorGrasp.AssemblyInfoInputs.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\obj\Debug\net6.0\CreatorGrasp.AssemblyInfo.cs
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\obj\Debug\net6.0\CreatorGrasp.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\obj\Debug\net6.0\CreatorGrasp.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\obj\Debug\net6.0\refint\CreatorGrasp.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\obj\Debug\net6.0\CreatorGrasp.pdb
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\obj\Debug\net6.0\CreatorGrasp.genruntimeconfig.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\CreatorGrasp\obj\Debug\net6.0\ref\CreatorGrasp.dll

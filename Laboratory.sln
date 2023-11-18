@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiDapper", "MiDapper\MiDapper.csproj", "{21DAD1A6-802E-4C7E-8DC3-464D778F2553}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InformationExpertGrasp", "InformationExpertGrasp\InformationExpertGrasp.csproj", "{CBE6801E-D33C-4C17-820D-BF8D75853AF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreatorGrasp", "CreatorGrasp\CreatorGrasp.csproj", "{2F54C9DF-73B8-4EEC-AF1B-EFA0FA9D135B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowCouplingGrasp", "LowCouplingGrasp\LowCouplingGrasp.csproj", "{6C553241-1F85-4949-A3DE-A3525B397958}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighCohesionGrasp", "HighCohesionGrasp\HighCohesionGrasp.csproj", "{506EA948-ED8B-4022-832A-C25D75ED0EEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeLambdaDelegate", "LambdaDelegate\PracticeLambdaDelegate.csproj", "{BB446117-2CD2-4CB7-8E53-921C68056F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraccion", "Abstraccion\Abstraccion.csproj", "{BB12B68F-A2B2-4188-9CBD-2C6D469BF9A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21DAD1A6-802E-4C7E-8DC3-464D778F2553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DAD1A6-802E-4C7E-8DC3-464D778F2553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DAD1A6-802E-4C7E-8DC3-464D778F2553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DAD1A6-802E-4C7E-8DC3-464D778F2553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE6801E-D33C-4C17-820D-BF8D75853AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE6801E-D33C-4C17-820D-BF8D75853AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE6801E-D33C-4C17-820D-BF8D75853AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE6801E-D33C-4C17-820D-BF8D75853AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F54C9DF-73B8-4EEC-AF1B-EFA0FA9D135B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F54C9DF-73B8-4EEC-AF1B-EFA0FA9D135B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F54C9DF-73B8-4EEC-AF1B-EFA0FA9D135B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F54C9DF-73B8-4EEC-AF1B-EFA0FA9D135B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C553241-1F85-4949-A3DE-A3525B397958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C553241-1F85-4949-A3DE-A3525B397958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C553241-1F85-4949-A3DE-A3525B397958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C553241-1F85-4949-A3DE-A3525B397958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{506EA948-ED8B-4022-832A-C25D75ED0EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506EA948-ED8B-4022-832A-C25D75ED0EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506EA948-ED8B-4022-832A-C25D75ED0EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506EA948-ED8B-4022-832A-C25D75ED0EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB446117-2CD2-4CB7-8E53-921C68056F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB446117-2CD2-4CB7-8E53-921C68056F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB446117-2CD2-4CB7-8E53-921C68056F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB446117-2CD2-4CB7-8E53-921C68056F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB12B68F-A2B2-4188-9CBD-2C6D469BF9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB12B68F-A2B2-4188-9CBD-2C6D469BF9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB12B68F-A2B2-4188-9CBD-2C6D469BF9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB12B68F-A2B2-4188-9CBD-2C6D469BF9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCB71B22-B916-461F-8621-2B8FA3729E38}
+	EndGlobalSection
+EndGlobal

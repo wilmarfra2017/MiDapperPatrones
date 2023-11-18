@@ -1,0 +1,14 @@
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\bin\Debug\net6.0\LowCouplingGrasp.exe
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\bin\Debug\net6.0\LowCouplingGrasp.deps.json
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\bin\Debug\net6.0\LowCouplingGrasp.runtimeconfig.json
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\bin\Debug\net6.0\LowCouplingGrasp.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\bin\Debug\net6.0\LowCouplingGrasp.pdb
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\obj\Debug\net6.0\LowCouplingGrasp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\obj\Debug\net6.0\LowCouplingGrasp.AssemblyInfoInputs.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\obj\Debug\net6.0\LowCouplingGrasp.AssemblyInfo.cs
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\obj\Debug\net6.0\LowCouplingGrasp.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\obj\Debug\net6.0\LowCouplingGrasp.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\obj\Debug\net6.0\refint\LowCouplingGrasp.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\obj\Debug\net6.0\LowCouplingGrasp.pdb
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\obj\Debug\net6.0\LowCouplingGrasp.genruntimeconfig.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\LowCouplingGrasp\obj\Debug\net6.0\ref\LowCouplingGrasp.dll

@@ -1,0 +1,14 @@
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\bin\Debug\net6.0\LambdaDelegate.exe
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\bin\Debug\net6.0\LambdaDelegate.deps.json
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\bin\Debug\net6.0\LambdaDelegate.runtimeconfig.json
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\bin\Debug\net6.0\LambdaDelegate.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\bin\Debug\net6.0\LambdaDelegate.pdb
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\obj\Debug\net6.0\LambdaDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\obj\Debug\net6.0\LambdaDelegate.AssemblyInfoInputs.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\obj\Debug\net6.0\LambdaDelegate.AssemblyInfo.cs
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\obj\Debug\net6.0\LambdaDelegate.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\obj\Debug\net6.0\LambdaDelegate.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\obj\Debug\net6.0\refint\LambdaDelegate.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\obj\Debug\net6.0\LambdaDelegate.pdb
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\obj\Debug\net6.0\LambdaDelegate.genruntimeconfig.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\LambdaDelegate\obj\Debug\net6.0\ref\LambdaDelegate.dll

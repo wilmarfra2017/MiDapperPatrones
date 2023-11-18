@@ -1,0 +1,14 @@
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\bin\Debug\net6.0\HighCohesionGrasp.exe
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\bin\Debug\net6.0\HighCohesionGrasp.deps.json
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\bin\Debug\net6.0\HighCohesionGrasp.runtimeconfig.json
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\bin\Debug\net6.0\HighCohesionGrasp.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\bin\Debug\net6.0\HighCohesionGrasp.pdb
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\obj\Debug\net6.0\HighCohesionGrasp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\obj\Debug\net6.0\HighCohesionGrasp.AssemblyInfoInputs.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\obj\Debug\net6.0\HighCohesionGrasp.AssemblyInfo.cs
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\obj\Debug\net6.0\HighCohesionGrasp.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\obj\Debug\net6.0\HighCohesionGrasp.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\obj\Debug\net6.0\refint\HighCohesionGrasp.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\obj\Debug\net6.0\HighCohesionGrasp.pdb
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\obj\Debug\net6.0\HighCohesionGrasp.genruntimeconfig.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\HighCohesionGrasp\obj\Debug\net6.0\ref\HighCohesionGrasp.dll

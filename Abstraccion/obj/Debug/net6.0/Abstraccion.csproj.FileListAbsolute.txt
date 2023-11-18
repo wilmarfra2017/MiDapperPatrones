@@ -1,0 +1,14 @@
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\bin\Debug\net6.0\Abstraccion.exe
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\bin\Debug\net6.0\Abstraccion.deps.json
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\bin\Debug\net6.0\Abstraccion.runtimeconfig.json
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\bin\Debug\net6.0\Abstraccion.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\bin\Debug\net6.0\Abstraccion.pdb
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\obj\Debug\net6.0\Abstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\obj\Debug\net6.0\Abstraccion.AssemblyInfoInputs.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\obj\Debug\net6.0\Abstraccion.AssemblyInfo.cs
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\obj\Debug\net6.0\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\obj\Debug\net6.0\Abstraccion.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\obj\Debug\net6.0\refint\Abstraccion.dll
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\obj\Debug\net6.0\Abstraccion.pdb
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\obj\Debug\net6.0\Abstraccion.genruntimeconfig.cache
+C:\Users\wilmar.martinez\source\repos\MiDapper\Abstraccion\obj\Debug\net6.0\ref\Abstraccion.dll
